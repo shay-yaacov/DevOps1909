@@ -22,6 +22,6 @@ res = (a/b)
 print (res)
 print ("moshe")
 print ("shay")
-
+print("a")
 
 
