@@ -21,5 +21,7 @@ b = int(input("Enter second number: "))
 res = (a/b)
 print (res)
 print ("moshe")
+print ("shay")
+print("a")
 
 
